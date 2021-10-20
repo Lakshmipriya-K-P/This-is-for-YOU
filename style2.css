@@ -1,0 +1,10 @@
+video{
+    width: 600px;
+    margin: 10px 0px 50px 360px;
+}
+
+#go-back{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size:20px;
+    text-align: center;
+}

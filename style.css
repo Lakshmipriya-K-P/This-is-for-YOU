@@ -1,0 +1,63 @@
+#Heading {
+    color:#3E065F;
+    background-color:white;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+body {
+    background-color: black;
+    color:white;
+    
+}
+
+#same{
+    font-family:'Italianno', cursive;
+    font-size: 45px;
+    color: #FF8243;
+}
+
+button{
+    color:black;
+    background-color: white;
+    font-family: 'Abril Fatface', cursive ;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+}
+
+#msg1{
+    text-align: left;
+}
+
+#msg2{
+    text-align: left;
+}
+
+video{
+    width: 330px;
+    height:auto;
+}
+
+#surprize{
+    font-family:"Special Elite", cursive;
+    font-size: 35px;
+    color: white;
+}
+
+#para{
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    background-color: #143059;
+    text-align: center;
+}
