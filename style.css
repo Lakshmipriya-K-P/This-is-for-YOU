@@ -13,9 +13,10 @@ body {
 }
 
 #same{
-    font-family:'Italianno', cursive;
-    font-size: 45px;
+    font-family:'Shadows Into Light';
+    font-size: 30px;
     color: #FF8243;
+    text-align:left
 }
 
 button{
@@ -23,26 +24,27 @@ button{
     background-color: white;
     font-family: 'Abril Fatface', cursive ;
     font-weight: bold;
-    width: 100px;
-    height: 30px;
+    width: 120px;
+    height: 50px;
 }
 
 #msg1{
-    text-align: left;
+    text-align: center;
 }
 
 #msg2{
-    text-align: left;
+    text-align: center;
 }
 
 video{
     width: 330px;
     height:auto;
+    margin: 10px 0px 50px 500px;
 }
 
 #surprize{
     font-family:"Special Elite", cursive;
-    font-size: 35px;
+    font-size: 25px;
     color: white;
 }
 
@@ -50,7 +52,7 @@ video{
     text-align: center;
 }
 
-a {
+#anchor {
     text-align: center;
 }
 
